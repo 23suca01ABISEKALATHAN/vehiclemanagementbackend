@@ -147,7 +147,10 @@ docker run -p 8080:8080 vehiclemanagementbackend
 
 ## 📸 Screenshots
 
-![Backend Dashboard](screenshots/backend-dashboard.png)
+![Backend Dashboard](screenshots/demo.png)
+![Backend Dashboard](screenshots/demo1.png)
+![Backend Dashboard](screenshots/demo2.png)
+
 
 
 ## 🔮 Future Enhancements
