@@ -147,9 +147,17 @@ docker run -p 8080:8080 vehiclemanagementbackend
 
 ## 📸 Screenshots
 
-![Backend Dashboard](screenshots/demo.png)
-![Backend Dashboard](screenshots/demo1.png)
-![Backend Dashboard](screenshots/demo2.png)
+## 📸 Screenshots
+
+### Backend API Running
+![Backend API](screenshots/demo.png.png)
+
+### SonarCloud Analysis
+![SonarCloud](screenshots/demo1.png.png)
+
+### Docker Build
+![Docker Build](screenshots/demo2.png.png)
+
 
 
 
