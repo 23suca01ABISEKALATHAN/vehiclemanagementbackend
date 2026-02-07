@@ -145,6 +145,11 @@ docker run -p 8080:8080 vehiclemanagementbackend
 
 ---
 
+## 📸 Screenshots
+
+![Backend Dashboard](screenshots/backend-dashboard.png)
+
+
 ## 🔮 Future Enhancements
 
 * 🔐 Authentication & authorization
