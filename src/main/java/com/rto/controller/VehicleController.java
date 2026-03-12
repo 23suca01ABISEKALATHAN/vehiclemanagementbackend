@@ -26,7 +26,7 @@ public class VehicleController {
     }
     
     @GetMapping("/{id}")
-    public ResponseEntity<VehicleDTO> getVehicleById(@PathVariable Long id) {
+     public ResponseEntity<VehicleDTO> getVehicleById(@PathVariable Long id) {
         try {
             VehicleDTO vehicle = vehicleService.getVehicleById(id);
             return ResponseEntity.ok(vehicle);
