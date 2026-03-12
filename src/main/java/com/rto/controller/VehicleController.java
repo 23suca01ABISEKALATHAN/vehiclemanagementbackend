@@ -17,7 +17,7 @@ import java.util.List;
 public class VehicleController {
     
     @Autowired
-    private VehicleService vehicleService;
+     private VehicleService vehicleService;
     
     @GetMapping
     public ResponseEntity<List<VehicleDTO>> getAllVehicles() {
