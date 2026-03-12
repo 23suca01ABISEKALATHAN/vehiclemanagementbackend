@@ -20,7 +20,7 @@ public class VehicleController {
      private VehicleService vehicleService;
     
     @GetMapping
-    public ResponseEntity<List<VehicleDTO>> getAllVehicles() {
+     public ResponseEntity<List<VehicleDTO>> getAllVehicles() {
         List<VehicleDTO> vehicles = vehicleService.getAllVehicles();
         return ResponseEntity.ok(vehicles);
     }
